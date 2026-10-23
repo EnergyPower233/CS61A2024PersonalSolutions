@@ -1,0 +1,17 @@
+# Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+
+# Local state written by the OK autograder
+.ok_consent
+.ok_disabled
+.ok_history
+.ok_messages
+.ok_storage*
+
+# Editor scratch file
+tempCodeRunnerFile.*
+
+# OS metadata
+.DS_Store
+Thumbs.db
